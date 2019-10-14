@@ -10,4 +10,4 @@ A simple Python script that donwloads the image of the day from "www.bingwallpap
 4. execute the following command : python3 potd.py
 ```
 
-* Note: Designed for Ubuntu 16.04 *
+* Note: Designed for Ubuntu 16.04.x *
